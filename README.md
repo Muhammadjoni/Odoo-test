@@ -16,22 +16,23 @@
     The code cannot contain the character ' (quote), " (double quote) or ` (back quote)`
 
 
-==================================================================================================================
+================================================================================
 
   TEST SUMMARY
 
   This test was a good and quick recap of topics like
       -RUBY
+        (
         -FLOW
         -CONDITIONALS
         -ARRAYS
         -ITIRATORS
-        -BLOCKS
-      -REGEX
-        -SYMBOLS
-      -SQL
-        -QUERY
-      -JAVASCRIPT
-        -ARRAY FUNCTIONS
+        -BLOCKS)
+      -REGEX(
+        -SYMBOLS)
+      -SQL(
+        -QUERY)
+      -JAVASCRIPT(
+        -ARRAY FUNCTIONS)
           -MAP
-          -FILTER
+          -FILTER))
