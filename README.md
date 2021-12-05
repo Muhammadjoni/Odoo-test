@@ -13,7 +13,7 @@
                      upper case
                     ).
 
-    The code cannot contain the character ' (quote), " (double quote) or ` (back quote)`
+    The code cannot contain the character ' (quote), " (double quote) or (back quote) `
 
 
 ================================================================================
